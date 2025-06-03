@@ -1,4 +1,4 @@
-# How use keyword Return
+# How to use keyword Return
 # Define main
 def main():
     x = int(input("What's x? "))
